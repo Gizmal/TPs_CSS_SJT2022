@@ -58,6 +58,7 @@ header nav a {
 main {
     padding: 0 1.25rem;
     max-width: 1150px;
+    margin: auto;
 }
 
 main .justeLeTexte {
